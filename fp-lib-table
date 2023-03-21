@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "glebko")(type "KiCad")(uri "${KIPRJMOD}/lib/glebko.pretty")(options "")(descr ""))
+)

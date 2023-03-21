@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "glebkoo")(type "Legacy")(uri "${KIPRJMOD}/lib/glebkoo.lib")(options "")(descr ""))
+  (lib (name "glebko")(type "KiCad")(uri "${KIPRJMOD}/lib/glebko.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74AHC1G04DBVR")(type "KiCad")(uri "${KIPRJMOD}/lib/SN74AHC1G04DBVR.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74LVC1G126DBVR")(type "KiCad")(uri "${KIPRJMOD}/lib/SN74LVC1G126DBVR.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74LVC1T45DBVR")(type "KiCad")(uri "${KIPRJMOD}/lib/SN74LVC1T45DBVR.kicad_sym")(options "")(descr ""))
+)

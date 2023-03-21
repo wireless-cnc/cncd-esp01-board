@@ -1,0 +1,26 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATSHA204A-STUCZ-T
+D Secure Symmetric Authentication Device Host and Client Operations
+$ENDCMP
+#
+$CMP BC817DS
+D NPN/NPN general purpose double transistors
+K NPN, transistor
+$ENDCMP
+#
+$CMP SB6286
+D High Efficiency 1.2MHz 2A Step Up Converter 
+K boost, step up
+F https://datasheet.lcsc.com/lcsc/1810242120_SHOUDING-SB6286_C157668.pdf
+$ENDCMP
+#
+$CMP TP4055
+D Standalone Linear Li-lon Battery Charger with Thermal Regulation
+$ENDCMP
+#
+$CMP TS331ILT
+D Micropower low-voltage, rail-to-rail comparator
+$ENDCMP
+#
+#End Doc Library
