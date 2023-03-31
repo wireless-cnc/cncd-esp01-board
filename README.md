@@ -1,5 +1,7 @@
 # CNCD ESP-01 Board
 
+🔴 **WARNING** - the hardware / firmware of the project is not stable and has a showstopper issue https://github.com/wireless-cnc/cncd-esp01/issues/1
+
 The motherboard for ESP-01 running CNCD firmware.
 
 <img src="docs/cncd-esp01-board-side.png" alt="Board side view" />
